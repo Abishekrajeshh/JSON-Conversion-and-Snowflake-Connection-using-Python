@@ -8,6 +8,12 @@ This repository provides Python scripts to convert JSON data into a DataFrame, e
 - **CSV Export:** Saves the DataFrame as a CSV file with customizable file paths.
 - **Duplicate Removal:** Automatically removes duplicate entries from the DataFrame to ensure data integrity.
 - **Snowflake Integration:** Uploads the resulting CSV file to a Snowflake database, with options to append or overwrite existing tables.
+- **JSON to CSV Conversion:** Scripts to convert JSON files into CSV format.  
+- **CSV to JSON Conversion:** Tools to transform CSV files back into JSON.  
+- **Connecting to Snowflake:** Python scripts to establish and manage connections with Snowflake, including uploading CSV files.  
+- **Connecting to MySQL:** Code for setting up and managing MySQL connections, with error handling and data upload features.  
+- **Bulk Upload of CSV Files to Snowflake:** Scripts designed to efficiently upload an entire folder of CSV files into Snowflake, automating the process and handling various data formats.  
+- **Bulk Upload of CSV Files to MySQL:** Automated tools for bulk uploading CSV files into MySQL databases using Python, ensuring seamless data integration.  
 
 ## Prerequisites
 
