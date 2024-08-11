@@ -34,7 +34,7 @@ Before using the code, make sure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abishekrajeshh/Data-Conversion-and-Database-Connections-with-Python.git
+   git clone https://github.com/Abishekrajeshh/JSON-Conversion-and-Snowflake-Connections-using-Python.git
    cd Data-Conversion-and-Database-Connections-with-Python
    ```
 
